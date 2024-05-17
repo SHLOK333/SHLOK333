@@ -36,6 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlok333&show_icons=true&locale=en" alt="shlok333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok333&" alt="shlok333" /></p>
-<img src="https://raw.githubusercontent.com/shlok333/shlok333/output/snake.svg" alt="Snake animation" />
-
-###
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i7txunwkwqhr4qwuvs2jsy7m5y&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
