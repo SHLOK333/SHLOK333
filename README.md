@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shlok333&label=Profile%20views&color=0e75b6&style=flat" alt="shlok333" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlok333" alt="shlok333" /></a> </p>
-![octocat-1750195178491](https://github.com/user-attachments/assets/a6e2ed0a-8d8e-434e-937b-fae53f106666)
 
 
 - 🌱 I’m currently learning **solidity frameworks and advance dsa**
